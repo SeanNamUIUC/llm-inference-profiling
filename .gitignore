@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Model weights (never commit these)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+
+# Logs and raw measurement data
+*.log
+results/raw/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
