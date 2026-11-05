@@ -26,7 +26,7 @@ How I set up vLLM on a consumer Blackwell GPU (RTX 5070 Ti, sm_120), including t
 | conda | 26.9.4 (Miniforge) |
 | Python | 3.12 |
 | PyTorch | 2.14.0+cu130 |
-| vLLM | (fill in: `python -c "import vllm; print(vllm.__version__)"`) |
+| vLLM | 0.33.0|
 | Model | Qwen/Qwen2.5-0.5B-Instruct |
 
 ## 2. Steps
